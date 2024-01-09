@@ -57,7 +57,7 @@ const Paciente = ({paciente, setPaciente,eliminarPaciente}) => {
           onClick={handleEliminar}
 
           >
-            Editar
+            Eliminar
           </button>
         </div>
     </div>

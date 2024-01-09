@@ -56,6 +56,7 @@ const Formulario = ({pacientes,setPacientes,paciente,setPaciente}) => {
 
           setPacientes(pacientesActualizados)
           setPaciente({})
+          
 
       }else{
         //nuevo registro
